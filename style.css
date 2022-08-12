@@ -1,0 +1,19 @@
+
+html {
+    height: 100%;
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  body {
+    background-color: #323231;
+    color: rgb(255, 255, 255);
+    position: relative;
+    max-width: 540px;
+    min-height: 100%;
+    margin: 0 auto;
+    font-family: 'Suisse';
+    box-sizing: border-box;
+    padding: 36px;
+  }
+  
